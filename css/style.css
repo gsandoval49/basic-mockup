@@ -8,16 +8,54 @@
 html,
 body {
 	margin: 0;
+
+}
+
+.header {
+	background-color: #88CEFB;
+	font-family: "Arial";
+}
+
+h1 {
+	color: black;
+	padding: 20px 0;
+	margin: 0;
 }
 
 .container {
 	margin: 0 auto;
 	width: 1170px;
+
+}
+
+.instructions {
+	border: 5px solid lightgrey;
+	font-family: Arial;
+	padding: 15px;
+}
+
+.pull-left {
+	float: left;
+	border: 5px solid lightgrey;
+	margin: 10px;
+}
+
+.pull-right {
+	float: right;
 }
 
 .clear {
 	clear: both;
 }
+
+/*
+* attempting to put instructions in box
+*didn't work bopied and pasted above
+#box {
+	border: 5px solid lightgrey;
+	padding: 15px;
+}
+*/
 
 /***
 * Flexbox Sticky Footer
