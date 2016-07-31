@@ -57,6 +57,12 @@ h1 {
 	clear: both;
 }
 
+.resistance {
+	background-color: #010001;
+	padding: 30px 0;
+	color: grey;
+}
+
 /*
 * attempting to put instructions in box
 *didn't work bopied and pasted above

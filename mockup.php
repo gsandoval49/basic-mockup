@@ -59,7 +59,9 @@
 
 		<footer>
 			<div class="container">
+				<div class="resistance">
 				<p>Resistance is futile!</p>
+				</div>
 			</div>
 		</footer>
 	</body>
