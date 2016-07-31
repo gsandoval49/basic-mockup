@@ -58,11 +58,12 @@
 		</div>
 
 		<footer>
-			<div class="container">
-				<div class="resistance">
+
+				<footer class="resistance">
+					<div class="container">
 				<p>Resistance is futile!</p>
-				</div>
-			</div>
+					</div>
+				</footer>
 		</footer>
 	</body>
 </html>
