@@ -28,7 +28,7 @@
 							<li>Have fun! We will be going over each student's project in class. :D</li>
 						</ol>
 
-							</div>
+                        </div>
 
 					<div/>
 					<img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
