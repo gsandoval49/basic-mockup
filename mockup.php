@@ -20,12 +20,16 @@
 					<div class="instructions">
 						<h2>Instructions</h2>
 
+						<div class="ordered">
+
 						<ol>
 							<li>Fork and clone the following GitHub repository, and create a new project in PhpStorm: <a
 									href="https://github.com/rlewis2892/basic-mockup" target="_blank">https://github.com/rlewis2892/basic-mockup</a></li>
 							<li>Using basic CSS, style this page like the mockup image here: <a href="mockup.php" target="_blank">Mockup Image</a></li>
 							<li>Have fun! We will be going over each student's project in class. :D</li>
 						</ol>
+
+							</div>
 
 					<div/>
 					<img class="pull-left" src="img/star-trek-cat.jpg" alt="star trek cat" />
