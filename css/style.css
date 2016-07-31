@@ -29,19 +29,24 @@ h1 {
 }
 
 .instructions {
-	border: 5px solid lightgrey;
 	font-family: Arial;
 	padding: 15px;
 }
 
 .ordered {
 	border: 5px solid lightgrey;
+	padding: 15px;
 }
 
 .pull-left {
 	float: left;
 	border: 5px solid lightgrey;
-	margin: 10px;
+	margin: 10px 10px 10px 0px;
+}
+
+.picture {
+	background-color: #88CEFB;
+	padding: 14px;
 }
 
 .pull-right {
